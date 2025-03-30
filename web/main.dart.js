@@ -79269,7 +79269,7 @@ if(i!=null){k=J.uR(i.a).c
 k.toString
 p=A.ha(k,0,null)
 for(k=p.length,o=q.w,n="",m=0;m<k;++m){l=p[m]
-if(l!=="\n"||l!=="/")n+=l
+if(l!=="\n")n+=l
 else{n=B.d.jZ(n)
 l=o.b
 l===$&&A.a()
